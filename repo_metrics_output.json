@@ -1,0 +1,459 @@
+[
+  {
+    "repo": "crystal-ameba/ameba",
+    "bus_factor": 1,
+    "top_contributor_share_pct": 63.2,
+    "leaderboard_top10": [
+      {
+        "rank": 1,
+        "login": "Sija",
+        "commits": 1030,
+        "share_pct": 63.2
+      },
+      {
+        "rank": 2,
+        "login": "veelenga",
+        "commits": 380,
+        "share_pct": 23.3
+      },
+      {
+        "rank": 3,
+        "login": "nobodywasishere",
+        "commits": 67,
+        "share_pct": 4.1
+      },
+      {
+        "rank": 4,
+        "login": "FnControlOption",
+        "commits": 41,
+        "share_pct": 2.5
+      },
+      {
+        "rank": 5,
+        "login": "github-actions[bot]",
+        "commits": 29,
+        "share_pct": 1.8
+      },
+      {
+        "rank": 6,
+        "login": "dependabot[bot]",
+        "commits": 19,
+        "share_pct": 1.2
+      },
+      {
+        "rank": 7,
+        "login": "straight-shoota",
+        "commits": 18,
+        "share_pct": 1.1
+      },
+      {
+        "rank": 8,
+        "login": "stufro",
+        "commits": 12,
+        "share_pct": 0.7
+      },
+      {
+        "rank": 9,
+        "login": "zw963",
+        "commits": 4,
+        "share_pct": 0.2
+      },
+      {
+        "rank": 10,
+        "login": "mamantoha",
+        "commits": 3,
+        "share_pct": 0.2
+      }
+    ],
+    "active_contributors_90d": 5,
+    "total_contributors_1y": 7,
+    "new_contributors_30d": 0,
+    "contributor_growth_delta": 0,
+    "authors_last_30d": 4,
+    "authors_prior_30d": 4
+  },
+  {
+    "repo": "kemalcr/kemal",
+    "bus_factor": 1,
+    "top_contributor_share_pct": 71.4,
+    "leaderboard_top10": [
+      {
+        "rank": 1,
+        "login": "sdogruyol",
+        "commits": 542,
+        "share_pct": 71.4
+      },
+      {
+        "rank": 2,
+        "login": "Sija",
+        "commits": 31,
+        "share_pct": 4.1
+      },
+      {
+        "rank": 3,
+        "login": "f",
+        "commits": 19,
+        "share_pct": 2.5
+      },
+      {
+        "rank": 4,
+        "login": "mamantoha",
+        "commits": 17,
+        "share_pct": 2.2
+      },
+      {
+        "rank": 5,
+        "login": "crisward",
+        "commits": 14,
+        "share_pct": 1.8
+      },
+      {
+        "rank": 6,
+        "login": "jmoriau",
+        "commits": 8,
+        "share_pct": 1.1
+      },
+      {
+        "rank": 7,
+        "login": "straight-shoota",
+        "commits": 8,
+        "share_pct": 1.1
+      },
+      {
+        "rank": 8,
+        "login": "waj",
+        "commits": 7,
+        "share_pct": 0.9
+      },
+      {
+        "rank": 9,
+        "login": "bcardiff",
+        "commits": 6,
+        "share_pct": 0.8
+      },
+      {
+        "rank": 10,
+        "login": "mperham",
+        "commits": 5,
+        "share_pct": 0.7
+      }
+    ],
+    "active_contributors_90d": 3,
+    "total_contributors_1y": 6,
+    "new_contributors_30d": 0,
+    "contributor_growth_delta": -1,
+    "authors_last_30d": 1,
+    "authors_prior_30d": 2
+  },
+  {
+    "repo": "ysbaddaden/minitest.cr",
+    "bus_factor": 1,
+    "top_contributor_share_pct": 93.8,
+    "leaderboard_top10": [
+      {
+        "rank": 1,
+        "login": "ysbaddaden",
+        "commits": 165,
+        "share_pct": 93.8
+      },
+      {
+        "rank": 2,
+        "login": "straight-shoota",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 3,
+        "login": "maxfierke",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 4,
+        "login": "bcardiff",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 5,
+        "login": "felixbuenemann",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 6,
+        "login": "splattael",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 7,
+        "login": "xfbs",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 8,
+        "login": "Sija",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 9,
+        "login": "dsazup",
+        "commits": 1,
+        "share_pct": 0.6
+      },
+      {
+        "rank": 10,
+        "login": "dmitryrck",
+        "commits": 1,
+        "share_pct": 0.6
+      }
+    ],
+    "active_contributors_90d": 1,
+    "total_contributors_1y": 1,
+    "new_contributors_30d": 0,
+    "contributor_growth_delta": 1,
+    "authors_last_30d": 1,
+    "authors_prior_30d": 0
+  },
+  {
+    "repo": "crystal-lang/crystal-db",
+    "bus_factor": 2,
+    "top_contributor_share_pct": 36.8,
+    "leaderboard_top10": [
+      {
+        "rank": 1,
+        "login": "bcardiff",
+        "commits": 35,
+        "share_pct": 36.8
+      },
+      {
+        "rank": 2,
+        "login": "straight-shoota",
+        "commits": 13,
+        "share_pct": 13.7
+      },
+      {
+        "rank": 3,
+        "login": "jgaskins",
+        "commits": 6,
+        "share_pct": 6.3
+      },
+      {
+        "rank": 4,
+        "login": "spalladino",
+        "commits": 6,
+        "share_pct": 6.3
+      },
+      {
+        "rank": 5,
+        "login": "beta-ziliani",
+        "commits": 2,
+        "share_pct": 2.1
+      },
+      {
+        "rank": 6,
+        "login": "lachlan",
+        "commits": 2,
+        "share_pct": 2.1
+      },
+      {
+        "rank": 7,
+        "login": "jwoertink",
+        "commits": 2,
+        "share_pct": 2.1
+      },
+      {
+        "rank": 8,
+        "login": "stakach",
+        "commits": 2,
+        "share_pct": 2.1
+      },
+      {
+        "rank": 9,
+        "login": "ysbaddaden",
+        "commits": 2,
+        "share_pct": 2.1
+      },
+      {
+        "rank": 10,
+        "login": "drum445",
+        "commits": 1,
+        "share_pct": 1.1
+      }
+    ],
+    "active_contributors_90d": 1,
+    "total_contributors_1y": 4,
+    "new_contributors_30d": 0,
+    "contributor_growth_delta": -1,
+    "authors_last_30d": 0,
+    "authors_prior_30d": 1
+  },
+  {
+    "repo": "manastech/webmock.cr",
+    "bus_factor": 3,
+    "top_contributor_share_pct": 35.5,
+    "leaderboard_top10": [
+      {
+        "rank": 1,
+        "login": "bcardiff",
+        "commits": 11,
+        "share_pct": 35.5
+      },
+      {
+        "rank": 2,
+        "login": "joenas",
+        "commits": 3,
+        "share_pct": 9.7
+      },
+      {
+        "rank": 3,
+        "login": "icyleaf",
+        "commits": 3,
+        "share_pct": 9.7
+      },
+      {
+        "rank": 4,
+        "login": "straight-shoota",
+        "commits": 2,
+        "share_pct": 6.5
+      },
+      {
+        "rank": 5,
+        "login": "porras",
+        "commits": 2,
+        "share_pct": 6.5
+      },
+      {
+        "rank": 6,
+        "login": "Sija",
+        "commits": 1,
+        "share_pct": 3.2
+      },
+      {
+        "rank": 7,
+        "login": "LeonLiuY",
+        "commits": 1,
+        "share_pct": 3.2
+      },
+      {
+        "rank": 8,
+        "login": "msa7",
+        "commits": 1,
+        "share_pct": 3.2
+      },
+      {
+        "rank": 9,
+        "login": "vonKingsley",
+        "commits": 1,
+        "share_pct": 3.2
+      },
+      {
+        "rank": 10,
+        "login": "SebastianSzturo",
+        "commits": 1,
+        "share_pct": 3.2
+      }
+    ],
+    "active_contributors_90d": 0,
+    "total_contributors_1y": 0,
+    "new_contributors_30d": 0,
+    "contributor_growth_delta": 0,
+    "authors_last_30d": 0,
+    "authors_prior_30d": 0
+  },
+  {
+    "repo": "luislavena/radix",
+    "bus_factor": 1,
+    "top_contributor_share_pct": 92.2,
+    "leaderboard_top10": [
+      {
+        "rank": 1,
+        "login": "luislavena",
+        "commits": 59,
+        "share_pct": 92.2
+      },
+      {
+        "rank": 2,
+        "login": "silasb",
+        "commits": 3,
+        "share_pct": 4.7
+      },
+      {
+        "rank": 3,
+        "login": "carlhoerberg",
+        "commits": 1,
+        "share_pct": 1.6
+      },
+      {
+        "rank": 4,
+        "login": "askn",
+        "commits": 1,
+        "share_pct": 1.6
+      }
+    ],
+    "active_contributors_90d": 0,
+    "total_contributors_1y": 0,
+    "new_contributors_30d": 0,
+    "contributor_growth_delta": 0,
+    "authors_last_30d": 0,
+    "authors_prior_30d": 0
+  },
+  {
+    "repo": "crystal-loot/exception_page",
+    "bus_factor": 2,
+    "top_contributor_share_pct": 34.0,
+    "leaderboard_top10": [
+      {
+        "rank": 1,
+        "login": "Sija",
+        "commits": 17,
+        "share_pct": 34.0
+      },
+      {
+        "rank": 2,
+        "login": "paulcsmith",
+        "commits": 17,
+        "share_pct": 34.0
+      },
+      {
+        "rank": 3,
+        "login": "jwoertink",
+        "commits": 11,
+        "share_pct": 22.0
+      },
+      {
+        "rank": 4,
+        "login": "stakach",
+        "commits": 2,
+        "share_pct": 4.0
+      },
+      {
+        "rank": 5,
+        "login": "straight-shoota",
+        "commits": 1,
+        "share_pct": 2.0
+      },
+      {
+        "rank": 6,
+        "login": "Blacksmoke16",
+        "commits": 1,
+        "share_pct": 2.0
+      },
+      {
+        "rank": 7,
+        "login": "mamantoha",
+        "commits": 1,
+        "share_pct": 2.0
+      }
+    ],
+    "active_contributors_90d": 0,
+    "total_contributors_1y": 0,
+    "new_contributors_30d": 0,
+    "contributor_growth_delta": 0,
+    "authors_last_30d": 0,
+    "authors_prior_30d": 0
+  }
+]
