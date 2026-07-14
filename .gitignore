@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-data/
+data/*
+!data/03_gold/
 sql/
 viz/
 .Python
