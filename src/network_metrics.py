@@ -167,3 +167,51 @@ def calculate_zimmermann_p_impact(G_fail: nx.DiGraph, pagerank_scores: dict, p_t
             critical_packages_count += 1
             
     return critical_packages_count
+
+# Decan 2018
+def calculate_reusability_index(G_std: nx.DiGraph) -> int:
+    """
+    Calcula el Reusability Index (Decan, 2018).
+    Valor máximo 'n' tal que existen 'n' paquetes con al menos 'n' paquetes dependientes.
+    
+    Args:
+        G_std: Grafo direccional estándar (Dependiente -> Dependencia).
+    """
+    # El in-degree en G_std representa cuántos paquetes dependen de un nodo
+    in_degrees = [d for n, d in G_std.in_degree()]
+    in_degrees.sort(reverse=True)
+    
+    h_index = 0
+    for i, degree in enumerate(in_degrees):
+        if degree >= i + 1:
+            h_index = i + 1
+        else:
+            break
+            
+    return h_index
+
+def calculate_transitive_direct_ratio(G_std: nx.DiGraph) -> float:
+    """
+    Calcula el ratio entre dependencias transitivas totales y dependencias directas totales (Decan, 2018).
+    
+    Args:
+        G_std: Grafo direccional estándar (Dependiente -> Dependencia).
+    """
+    total_direct = G_std.number_of_edges()
+    
+    if total_direct == 0:
+        return 0.0
+        
+    total_strictly_transitive = 0
+    
+    for node in G_std.nodes():
+        # Descendientes totales (directos + transitivos)
+        descendants = nx.descendants(G_std, node)
+        # Sucesores (solo directos)
+        successors = set(G_std.successors(node))
+        
+        # Restamos los directos para obtener solo los puramente transitivos
+        strictly_transitive = descendants - successors
+        total_strictly_transitive += len(strictly_transitive)
+        
+    return total_strictly_transitive / total_direct
